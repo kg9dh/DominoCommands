@@ -1,0 +1,8 @@
+#DominoCommands by kg9dh 
+#commandslist -> add commands you add in the commands section || commands -> left side is the replaced, and right side the replacing command
+commandlist:
+  - help
+  - say
+commands:
+  help: say hello
+  say: say say
