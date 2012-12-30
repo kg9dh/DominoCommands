@@ -1,16 +1,20 @@
 DominoCommands
 ==============
 Config setup:
-
+--------------
 Example:
+--------------
 ------------------
+
 commandlist:
   - help
   - say
 commands:
   help: say hello
   say: say say
+
 ------------------
+
 in the "commandlist:" you put every command you want to have as trigger, 
 the plugin uses this to recognize the commands in the "commands:" section
 
